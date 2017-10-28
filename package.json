@@ -1,0 +1,25 @@
+{
+  "name": "restfulblogapp",
+  "version": "1.0.0",
+  "description": "A RESTful Blog Application, using RESTful Routing, ExpressJS, MongoDB and Semantic-UI. The app is being developed throughout the Udemy Class 'The Web Developer Bootcamp'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Jolita Arnaudova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JolitaArnau/RESTfulBlogApp/issues"
+  },
+  "homepage": "https://github.com/JolitaArnau/RESTfulBlogApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.4"
+  }
+}
